@@ -44,4 +44,12 @@ def generate_sequences():
     print("and test performance on sequences of increasing size.\n")
 
 if __name__ == "__main__":
-    generate_sequences()
+    print("DYNAMIC PROGRAMMING ASSIGNMENT - STARTER CODE")
+    print("Implement the LCS functions above, then run tests.\n")
+
+    # Uncomment to run tests
+    test_small_cases()
+    time_recursive()
+    compare_all_approaches()
+
+    print("\nAll tests completed successfully!")
